@@ -11,6 +11,16 @@ An AI-powered nutrition intelligence platform that evaluates a user's daily food
 - Generate an overall daily nutrition score
 - AI-powered dietary analysis and feedback
 - Personalized nutrition insights
+  ## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Nutrition Analysis
+![Nutrition Analysis](screenshots/analysis.png)
+
+### Results Dashboard
+![Results Dashboard](screenshots/result.png)
 
 ##  Tech Stack
 
