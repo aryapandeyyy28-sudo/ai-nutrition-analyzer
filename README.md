@@ -1,8 +1,8 @@
-# 🥗 Daily Nutrition Analyzer
+#  Daily Nutrition Analyzer
 
 An AI-powered nutrition intelligence platform that evaluates a user's daily food intake, tracks macronutrient consumption, and provides personalized nutritional insights to help maintain a balanced diet.
 
-## 🚀 Features
+##  Features
 
 - Track daily food consumption
 - Calculate total calories consumed
@@ -12,7 +12,7 @@ An AI-powered nutrition intelligence platform that evaluates a user's daily food
 - AI-powered dietary analysis and feedback
 - Personalized nutrition insights
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React
 - TypeScript
@@ -28,7 +28,7 @@ An AI-powered nutrition intelligence platform that evaluates a user's daily food
 5. A daily nutrition score is generated based on dietary balance.
 6. AI provides actionable dietary recommendations.
 
-## 🎯 Key Insights Generated
+##  Key Insights Generated
 
 - Daily Nutrition Score
 - Protein Intake Analysis
@@ -37,7 +37,7 @@ An AI-powered nutrition intelligence platform that evaluates a user's daily food
 - Macronutrient Distribution
 - Personalized Dietary Recommendations
 
-## 💻 Installation
+##  Installation
 
 ```bash
 npm install
@@ -51,14 +51,6 @@ npm run dev
 - TypeScript
 - Node.js
 
-## 🔮 Future Enhancements
 
-- Food image recognition
-- Meal planning assistant
-- Weekly nutrition reports
-- Fitness goal integration
-- Personalized diet plans
-
-## 👩‍💻 Author
 
 Arya Pandey
