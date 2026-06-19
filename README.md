@@ -1,20 +1,64 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🥗 Daily Nutrition Analyzer
 
-# Run and deploy your AI Studio app
+An AI-powered nutrition intelligence platform that evaluates a user's daily food intake, tracks macronutrient consumption, and provides personalized nutritional insights to help maintain a balanced diet.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/46173430-f7e2-48c2-a772-aad49a9ff5b2
+- Track daily food consumption
+- Calculate total calories consumed
+- Monitor protein, carbohydrates, and fat intake
+- Identify remaining protein requirements for the day
+- Generate an overall daily nutrition score
+- AI-powered dietary analysis and feedback
+- Personalized nutrition insights
 
-## Run Locally
+## 🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Google Gemini API
+- Node.js
 
+## 📊 How It Works
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. Users enter the foods consumed throughout the day.
+2. The system analyzes the nutritional content.
+3. Total calorie and macronutrient intake is calculated.
+4. Remaining daily protein requirements are estimated.
+5. A daily nutrition score is generated based on dietary balance.
+6. AI provides actionable dietary recommendations.
+
+## 🎯 Key Insights Generated
+
+- Daily Nutrition Score
+- Protein Intake Analysis
+- Remaining Protein Requirement
+- Calorie Consumption Summary
+- Macronutrient Distribution
+- Personalized Dietary Recommendations
+
+## 💻 Installation
+
+```bash
+npm install
+npm run dev
+```
+## Built With
+
+- Google AI Studio
+- Gemini API
+- React
+- TypeScript
+- Node.js
+
+## 🔮 Future Enhancements
+
+- Food image recognition
+- Meal planning assistant
+- Weekly nutrition reports
+- Fitness goal integration
+- Personalized diet plans
+
+## 👩‍💻 Author
+
+Arya Pandey
