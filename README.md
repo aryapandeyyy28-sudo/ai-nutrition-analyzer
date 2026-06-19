@@ -19,7 +19,7 @@ An AI-powered nutrition intelligence platform that evaluates a user's daily food
 - Google Gemini API
 - Node.js
 
-## 📊 How It Works
+##  How It Works
 
 1. Users enter the foods consumed throughout the day.
 2. The system analyzes the nutritional content.
