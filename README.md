@@ -11,17 +11,17 @@ An AI-powered nutrition intelligence platform that evaluates a user's daily food
 - Generate an overall daily nutrition score
 - AI-powered dietary analysis and feedback
 - Personalized nutrition insights
-  ## Screenshots
+## 📸 Screenshots
 
-### Home Page
-![Home Page](screenshots/home.png)
+### Dashboard & Nutrition Monitoring
+![Dashboard](screenshots/dashboard.png)
 
-### Nutrition Analysis
-![Nutrition Analysis](screenshots/analysis.png)
+The main dashboard allows users to configure dietary goals, access preset nutrition profiles, and initiate AI-powered nutrition analysis.
 
-### Results Dashboard
-![Results Dashboard](screenshots/result.png)
+### Daily Food Log & Profile Setup
+![Food Log](screenshots/food-log.png)
 
+Users can enter age, weight, height, activity level, dietary goals, and daily food intake. The system then analyzes nutritional balance and protein requirements.
 ##  Tech Stack
 
 - React
